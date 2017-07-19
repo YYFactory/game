@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DotDream</string>
+    <color name="wbk">#FFFFFF</color>
+    <color name="bbk">#000000</color>
+    <string name="title_activity_ending">Ending</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1065164586585973/3239351646</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "946588859354",
+    "firebase_url": "https://dodream-bb9aa.firebaseio.com",
+    "project_id": "dodream-bb9aa",
+    "storage_bucket": "dodream-bb9aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946588859354:android:c4c5a42d60b45dec",
+        "android_client_info": {
+          "package_name": "com.firstreport.user.DotDream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946588859354-5n7gr247hg1jgoiaf3bo1asqptkbtqeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQ-6_Zlv0sjG3QXan19YwaTWIH9V0bRo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
